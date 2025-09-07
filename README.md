@@ -1,5 +1,2 @@
-"Objective: Practice branching, merging, and resolving conflicts." 
-"Modification in master branch." 
-"Modification in master branch." 
-"Modification in main branch." 
-This is a new feature
+"# GitHubCloneProject" 
+"Objective: Practice branching, merging, and conflict resolution" 
